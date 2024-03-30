@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Pavlos
-- 👀 I’m interested in ...
+- 👋 Hi, my name is Pavlos and I live in Greece.
 - 🌱 I’m currently studying Economics in University of Crete.
-- 📫 How to reach me ...
 
 <!---
 vlospa99/vlospa99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
